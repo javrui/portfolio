@@ -8,7 +8,7 @@ He reorientado mi carrera profesional hacia mi pasión por el diseño y desarrol
 - [El software y yo](web/sw_y_yo.md)
 
 ## Mis proyectos
-- [2024 IA: Search algorithms](https://github.com/javrui/search-maze-puzzle/blob/main/README.md)
+- [2024 IA: Search algorithms](web/search.md)
 - [2024 IA: Machine Learning](web/nim.md)
 - 2021-2023 Desarrollos para mi entorno laboral
   - [scraping de intranet corporativa](web/scraping_intranet.md)
