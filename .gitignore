@@ -1,0 +1,7 @@
+Guias para publicar modulo y portfolio/
+imagenes_varias/
+old/
+
+*.sh
+*.txt
+.cspell.json
