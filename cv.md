@@ -89,4 +89,5 @@ jun 1993 - sep 1999
 - Desarrollo profesional
 
 
-Descarga de curriculum Vitae en formato [pdf](cv.pdf)
+
+Descarga de CV en formato [pdf](cv.pdf)
