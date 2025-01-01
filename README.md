@@ -8,12 +8,11 @@ Reoriento mi carrera profesional hacia el desarrollo de software, especialmente 
 # Mis proyectos
 - [2024 Python search module](https://search-module.readthedocs.io/en/latest/index.html)
 - [2024 Python Machine Learning Nim player](nim.md)
-- [20021-2023 Automatización de procesos](Automatizaciones.md)
+- [20021-2023 Automatización de procesos](2021-2023_Automatizaciones.md)
   - scraping de intranet corporativa
   - análisis y manipulación de datos con pandas
   - refactorización OOP
   - estrategia SQL
-
 
 
 # Formación
@@ -22,8 +21,6 @@ Reoriento mi carrera profesional hacia el desarrollo de software, especialmente 
 - [Curso (IBM): Git&GitHub Basics(2024)](formacion_IBM.md)
 - ITIL Service Manager (2008)
 - Ingeniero Industrial, Escuela Técnica Superior de Ingenieros Industriales de Madrid, especialidad Regulación Automática y Electrónica (1992)
-
-
 
 
 # Contacto / CV
