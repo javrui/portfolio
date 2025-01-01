@@ -28,5 +28,5 @@ Reoriento mi carrera profesional hacia una pasión que viene de lejos: el desarr
 
 [javruimantech@gmail.com](mailto:javruimantech@gmail.com)
 
-[Curriculum Vitae](cv.pdf)
+[Curriculum Vitae](CV.pdf)
 
