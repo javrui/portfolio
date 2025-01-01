@@ -1,4 +1,4 @@
-# CV
+# Curriculum Vitae
 
 Javier Ruiz Manrique
 
@@ -87,3 +87,6 @@ jun 1993 - sep 1999
 - Cultura de equipo
 - Aprendizaje y formación
 - Desarrollo profesional
+
+
+Descarga de curriculum Vitae en formato [pdf](cv.pdf)
