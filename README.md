@@ -26,8 +26,8 @@ Reoriento mi carrera profesional hacia una pasión que viene de lejos: el desarr
 
 # Curriculum Vitae, contacto
 
-[Curriculum Vitae](CV.md)
-
-Descarga en formato [pdf](cv.pdf)
+[Curriculum Vitae](CV.md) (Descarga en formato [pdf](cv.pdf))
 
 [javruimantech@gmail.com](mailto:javruimantech@gmail.com)
+
+[Mi GitHub](https://github.com/javrui)
