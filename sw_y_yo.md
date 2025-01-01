@@ -1,0 +1,5 @@
+## El software y yo
+
+Mi interés por el desarrollo se remonta al proyecto de fin de carrera: un evaluador de expresiones lógicas programado en C. Era parte de un sistema experto creado en la Cátedra de Regulación Automática de la Escuela Técnica Superior de Ingenieros Industriales de Madrid. Al principio, mi carrera siguió centrada en el desarrollo, pero con el tiempo evolucioné hacia otras áreas.
+
+Hace tres años, en mi última empresa, una reorganización interna nos movió a muchos Jefes de Proyecto de servicios Cloud a nuevos roles. Mi trabajo pasó a ser básicamente la gestión de renovación de pedidos a proveedores. Tareas repetitivas y muy poco creativas. Decidí automatizarlas lo máximo posible con scripts en Python. Fue un reto en un entorno dinámico, donde constantemente tenía que mantener y depurar mi propio software. Lo disfruté tanto que decidí dar un giro a mi carrera y volver a mi pasión de juventud: el diseño y desarrollo de software.
