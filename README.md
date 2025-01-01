@@ -23,7 +23,6 @@ Reoriento mi carrera profesional hacia una pasión que viene de lejos: el desarr
 - [ITIL Service Manager (2008)](ITIL_SM)
 - Ingeniero Industrial, Escuela Técnica Superior de Ingenieros Industriales de Madrid, especialidad Regulación Automática y Electrónica (1992)
 
-
 # Curriculum Vitae, contacto
 
 [Curriculum Vitae](cv.md) (Descarga en formato [pdf](CV.pdf))

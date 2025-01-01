@@ -34,7 +34,7 @@ Reoriento mi carrera profesional hacia una pasión que viene de lejos: el desarr
 
 ## Formación
 
-### Harvard CS50's Introduction to Artificial Intelligence with Python**
+### Harvard CS50's Introduction to Artificial Intelligence with Python
 Harvard University, vía EdX, 2024
 
 ### IBM: Git and GitHub
@@ -52,7 +52,7 @@ Escuela Técnica Superior de Ingenieros Industriales, Madrid, 1984 - 1992
 ## Trayectoria profesional
 
 ### Telefónica Soluciones de Informática y Comunicaciones
-nov 2002, mar 2024
+nov 2002 - mar 2024
 
 - Automatización de procesos administrativos.
 - Jefe de proyectos de TI, desde Dirección de Postventa.
@@ -68,13 +68,12 @@ oct 2000 - nov 2002
 - Responsable de explotación.
 - Bajo auditoría anual de VeriSign Inc.
 
-## Antena 3 Interactiva
+### Antena 3 Interactiva
 sep 1999 - oct 2000
 
 - Proyecto de implantación de plataforma de comercio electrónico.
 
-
-## FNMT (Fábrica Nacional de Moneda y Timbre)
+### FNMT (Fábrica Nacional de Moneda y Timbre)
 jun 1993 - sep 1999
 
 - Proyecto "CERES" de Autoridad de Certificación Electrónica (certificación digital).
@@ -88,6 +87,4 @@ jun 1993 - sep 1999
 - Aprendizaje y formación
 - Desarrollo profesional
 
-
-
-Descarga de CV en formato [pdf](cv.pdf)
+Descarga de CV en formato [pdf](CV.pdf)
