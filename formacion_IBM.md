@@ -10,13 +10,4 @@ Training with a hands-on lab to fork a GitHub repository, clone it, modify and p
 Contenido del curso:<br>
 https://www.edx.org/es/learn/github/ibm-git-and-github-basics
 
-Previsualización del certificado de realización:(not verified because not pursued)<br>
-
 <img src="images/IBM_Git&GitHub_Verified Certificate preview.png" alt="Certificado (no verificado)">
-
-Finalización del curso:<br>
-
-
-<img src="images/IBM_Git&GitHub_Curso completado.png" alt="Curso finalizado">
-
-
