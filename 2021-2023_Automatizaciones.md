@@ -1,4 +1,5 @@
-# 20921-2023 Automatizaciones administrativas
+# <span style="color: #2980b9;">Nim2024 Python Machine Learning Nim player</span>
+
 
 Durante este periodo profesional tomo la iniciativa de automatizar tareas repetitivas, fundamentalmente administrativas, con scripts **Python**. Aprendo y abordo diferentes enfoques técnicos, a veces refactorizando mis propios desarrollos, según voy teniendo acceso a diferentes fuentes.
 

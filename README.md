@@ -1,4 +1,4 @@
-# Sobre mí
+# <span style="color: #2980b9;">Sobre mi</span>
 
 Ingeniero Industrial con mas de 30 años de experiencia en el sector de las tecnologías de la Información.
 
