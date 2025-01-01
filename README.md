@@ -24,9 +24,10 @@ Reoriento mi carrera profesional hacia una pasión que viene de lejos: el desarr
 - Ingeniero Industrial, Escuela Técnica Superior de Ingenieros Industriales de Madrid, especialidad Regulación Automática y Electrónica (1992)
 
 
-# Contacto / CV
+# Curriculum Vitae, contacto
+
+[Curriculum Vitae](CV.md)
+
+Descarga en formato [pdf](cv.pdf)
 
 [javruimantech@gmail.com](mailto:javruimantech@gmail.com)
-
-[Curriculum Vitae](CV.pdf)
-
