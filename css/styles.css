@@ -3,8 +3,7 @@
     visibility: hidden;
   }
   header h1:after {
-    content: "Tu título personalizado";
-    visibility: visible;
+    content: "Tu título personalizadoPortfolio de Javier Ruiz Manrique": visible;
   }
 </style>
 
