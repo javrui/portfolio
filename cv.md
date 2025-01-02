@@ -2,8 +2,6 @@
 
 # Curriculum Vitae
 
-Ingeniero
-
 javruimantech@gmail.com
 
 https://javrui.github.io/public_portfolio/
