@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="css/styles2.css">
 
-# Javier Ruiz Manrique
+# Curriculum Vitae
 
 ### Ingeniero
 
