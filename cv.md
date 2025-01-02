@@ -2,7 +2,7 @@
 
 # Curriculum Vitae
 
-Javier Ruiz Manrique
+### Javier Ruiz Manrique
 
 Ingeniero
 
