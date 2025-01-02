@@ -1,4 +1,4 @@
- <span style="color: #2980b9;">
+<link rel="stylesheet" href="css/styles2.css">
 
 # Curriculum Vitae
 
