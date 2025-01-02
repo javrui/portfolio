@@ -1,12 +1,3 @@
-<style>
-  header h1 {
-    visibility: hidden;
-  }
-  header h1:after {
-    content: "Tu título personalizadoPortfolio de Javier Ruiz Manrique": visible;
-  }
-</style>
-
 h1, h2, h3 {
     color: #2980b9 !important;
 }
