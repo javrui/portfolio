@@ -4,7 +4,7 @@
 
 javruimantech@gmail.com
 
-https://javrui.github.io/public_portfolio/
+[GitHub](https://github.com/javrui)
 
 ## Sobre Mi
 
