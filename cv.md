@@ -2,7 +2,7 @@
 
 # Curriculum Vitae
 
-### Ingeniero
+Ingeniero
 
 javruimantech@gmail.com
 
