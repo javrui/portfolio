@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="css/styles2.css">
 
-# JAvier Ruiz Manrique
+# Javier Ruiz Manrique
 
 javruimantech@gmail.com
 
