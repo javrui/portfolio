@@ -2,7 +2,7 @@
 
 # Curriculum Vitae de Javier Ruiz Manrique
 
-Ingeniero
+### Ingeniero
 
 javruimantech@gmail.com
 
