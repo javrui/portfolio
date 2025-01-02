@@ -1,6 +1,8 @@
-# <span style="color: #2980b9;">2024 Python Machine Learning Nim player</span>
+<link rel="stylesheet" href="css/styles.css">
 
-## ¿Qué es el kjuego de Nim?
+# 2024 Python Machine Learning Nim player
+
+## ¿Qué es el juego Nim?
 
 Nim es un juego de estrategia donde dos jugadores se turnan para retirar fichas de un conjunto de montones que componen el tablero. Cada jugador puede quitar fichas de un solo montón por turno. El juego termina cuando el jugador que debe retirar encuentra el tablero vacío, y así pierde.
 

@@ -1,4 +1,6 @@
-# <span style="color: #2980b9;">2021-2023 Automatizaciones administrativas</span>
+<link rel="stylesheet" href="css/styles.css">
+
+# 2021-2023 Automatizaciones administrativas
 
 
 Durante este periodo profesional tomo la iniciativa de automatizar tareas repetitivas, fundamentalmente administrativas, con scripts **Python**. Aprendo y abordo diferentes enfoques técnicos, a veces refactorizando mis propios desarrollos, según voy teniendo acceso a diferentes fuentes.

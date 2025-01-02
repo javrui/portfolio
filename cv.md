@@ -1,3 +1,5 @@
+ <span style="color: #2980b9;">
+
 # Curriculum Vitae
 
 Javier Ruiz Manrique
