@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="css/styles1.css">
+<!--  rel="stylesheet" href="css/styles1.css"> -->
 
 # Javier Ruiz Manrique
 
