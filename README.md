@@ -6,7 +6,7 @@ Ingeniero Industrial con más de 30 años de experiencia en el sector de las tec
 
 Reoriento mi carrera profesional hacia una pasión que viene de lejos: el desarrollo de software. Centrado en Python. Profundizo en el fascinante mundo de la Inteligencia Artificial.
 
-# Mis proyectos
+## Mis proyectos
 - [2024 Python search module](https://search-module.readthedocs.io/en/latest/index.html)
 - [2024 Script Python para jugar a Nim contra IA (Machine Learning)](nim.md)
 - [2021-2023 Automatización de procesos](2021-2023_Automatizaciones.md)
@@ -24,7 +24,7 @@ Reoriento mi carrera profesional hacia una pasión que viene de lejos: el desarr
 - [ITIL Service Manager (2008)](ITIL_SM)
 - Ingeniero Industrial, Escuela Técnica Superior de Ingenieros Industriales de Madrid, especialidad Regulación Automática y Electrónica (1992)
 
-# Curriculum Vitae, contacto
+## Curriculum Vitae, contacto
 
 [Curriculum Vitae](cv.md) (Descarga en formato [pdf](CV.pdf))
 
