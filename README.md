@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="css/styles.css">
+
 # Sobre mi
 
 Ingeniero Industrial con más de 30 años de experiencia en el sector de las tecnologías de la Información.
