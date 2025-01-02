@@ -32,10 +32,10 @@ Reoriento mi carrera profesional hacia una pasión que viene de lejos: el desarr
 
 ## Formación
 
-### Harvard CS50's Introduction to Artificial Intelligence with Python
+**Harvard CS50's Introduction to Artificial Intelligence with Python**
 Harvard University, vía EdX, 2024
 
-### IBM: Git and GitHub
+**IBM: Git and GitHub**
 IBM, via EdX, 2024
 
 ### Microsoft Power BI
