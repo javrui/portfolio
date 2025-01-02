@@ -1,3 +1,14 @@
 h1, h2, h3 {
     color: #2980b9 !important;
 }
+
+
+<style>
+  header h1 {
+    visibility: hidden;
+  }
+  header h1:after {
+    content: "Tu título personalizado";
+    visibility: visible;
+  }
+</style>
