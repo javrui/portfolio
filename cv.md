@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="css/styles2.css">
 
-# Curriculum Vitae
+# JAvier Ruiz Manrique
 
 javruimantech@gmail.com
 
