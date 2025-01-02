@@ -1,6 +1,6 @@
 <!--  rel="stylesheet" href="css/styles1.css"> -->
 
-# Curriculum Vitae de Javier Ruiz Manrique
+# Javier Ruiz Manrique
 
 Ingeniero Industrial con más de 30 años de experiencia en el sector de las tecnologías de la Información.
 
