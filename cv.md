@@ -32,19 +32,17 @@ Reoriento mi carrera profesional hacia una pasión que viene de lejos: el desarr
 
 ## Formación
 
-**Harvard CS50's Introduction to Artificial Intelligence with Python**
+### Harvard CS50's Introduction to Artificial Intelligence with Python
+Harvard University, vía EdX, 2024 [Detalle](formacion_CS50AI.md)
 
-Harvard University, vía EdX, 2024
-
-**IBM: Git and GitHub**
-
-IBM, via EdX, 2024
+### IBM: Git and GitHub
+IBM, via EdX, 2024 [Detalle](formacion_IBM.md)
 
 ### Microsoft Power BI
 Corporativo Telefónica, 2022
 
 ### ITIL Service Manager
-EXIN (Examination Institute for Information Science) 2008
+EXIN (Examination Institute for Information Science) 2008 [Detalle](ITIL_SM)
 
 ### Ingeniero Industrial, (Electrónica y Automática)
 Escuela Técnica Superior de Ingenieros Industriales, Madrid, 1984 - 1992
