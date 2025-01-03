@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="css/styles2.css">
 
 
-# 2021-2023 Automatizaciones corporativas
+# 2021-2023 Automatización de procesos
 
 ![Banner](images/imagen_3.jpg)
 
