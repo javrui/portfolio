@@ -21,7 +21,7 @@ Reoriento mi carrera profesional hacia una pasión que viene de lejos: el desarr
 - [Curso (HarvardX): "CS50's Introduction to Artificial Intelligence with Python (2024)](formacion_CS50AI.md)
 - [Curso (IBM): Git&GitHub Basics (2024)](formacion_IBM.md)
 - Microsoft Power BI (2022, formación corporativa de Telefónica)
-- [ITIL Service Manager (2008)](ITIL_SM)
+- [ITIL Service Manager (2008)](images/ITIL_SM.jpg)
 - Ingeniero Industrial, Escuela Técnica Superior de Ingenieros Industriales de Madrid, especialidad Regulación Automática y Electrónica (1992)
 
 ## Curriculum Vitae, contacto
