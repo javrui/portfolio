@@ -9,6 +9,9 @@ x
 
 ![Banner](images/imagen_4.jpg)
 
+![Banner](images/imagen_SQL_2.jpg)
+
+
 Durante este periodo profesional, tomé la iniciativa de automatizar tareas repetitivas, principalmente administrativas, mediante scripts en **Python**. A medida que obtuve acceso a distintas fuentes de datos, aprendí y apliqué diversos enfoques técnicos.
 
 En más de una ocasión, refactoricé mi propio código, observando la importancia de una buena documentación.
