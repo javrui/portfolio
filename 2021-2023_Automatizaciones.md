@@ -20,7 +20,7 @@ Desarrollé un módulo de Python en programación estructurada que aplica técni
 
 ## Análisis y manipulación de datos con pandas
 
-Power BI se adoptó como herramienta principal, alimentada por ficheros de Excel volcados desde la base de datos corporativa. Refactoricé gran parte de las consultas en mi módulo, sustituyendo el *web scraping* (más lento) por la manipulación de dichos archivos. Opté por la librería **pandas** debido a su eficiencia en el tratamiento de grandes volúmenes de datos.
+Power BI se adoptó ampliamente como herramienta, alimentada por ficheros de Excel volcados desde la base de datos corporativa. Refactoricé gran parte de las consultas en mi módulo, sustituyendo el *web scraping* (más lento) por la manipulación de dichos archivos. Opté por la librería **pandas** debido a su eficiencia en el tratamiento de grandes volúmenes de datos.
 
 #### Librerías Python utilizadas:
 - **pandas**
