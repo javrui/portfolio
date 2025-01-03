@@ -3,6 +3,10 @@
 
 # 2021-2023 Automatizaciones administrativas
 
+![Banner](images/imagen_3.jpg)
+
+x
+
 ![Banner](images/imagen_4.jpg)
 
 Durante este periodo profesional, tomé la iniciativa de automatizar tareas repetitivas, principalmente administrativas, mediante scripts en **Python**. A medida que obtuve acceso a distintas fuentes de datos, aprendí y apliqué diversos enfoques técnicos.
