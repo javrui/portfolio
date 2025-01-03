@@ -3,12 +3,6 @@
 
 # 2021-2023 Automatización de procesos
 
-![Banner](images/imagen_3.jpg)
-
-x
-
-![Banner](images/imagen_4.jpg)
-
 ![Banner](images/imagen_SQL_2.jpg)
 
 
