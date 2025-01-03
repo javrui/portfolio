@@ -33,7 +33,7 @@ Reescribí por completo el módulo de *scraping* siguiendo un enfoque de Diseño
 
 ## Nuevo sistema de gestión, SQL
 
-Con la implantación de SAP S/4HANA, el anterior sistema de gestión y la Intranet fueron reemplazados. Esto modificó por completo el modelo de datos y los flujos de trabajo, haciéndose necesario rediseñar la lógica de gestión y los procesos de obtención de datos en mis módulos y scripts. Obtuve acceso a una réplica de la nueva base de datos corporativa, con la que empecé a trabajar mediante *pyodbc*.
+La Intranet y el sistema de gestión son sustituidos por la implantación del end-to-end con SAP S/4HANA. Esto modificó por completo el modelo de datos y los flujos de trabajo, haciéndose necesario rediseñar la lógica de gestión y los procesos de obtención de datos en mis módulos y scripts. Cuando obtuve acceso a una réplica de la nueva base de datos corporativa, empecé a trabajar basando la captura de datos en *pyodbc*.
 
 ### Librerías Python utilizadas:
 - *pyodbc*
