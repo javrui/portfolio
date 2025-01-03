@@ -3,7 +3,7 @@
 
 # 2021-2023 Automatización de procesos
 
-![Banner](images/imagen_SQL_2.jpg)
+![Banner](images/imagen_4_1920x150.jpg)
 
 
 Durante este periodo profesional, tomé la iniciativa de automatizar tareas repetitivas, principalmente administrativas, mediante scripts en **Python**. A medida que obtuve acceso a distintas fuentes de datos, aprendí y apliqué diversos enfoques técnicos.
