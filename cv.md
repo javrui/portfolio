@@ -8,9 +8,10 @@ javruimantech@gmail.com
 
 ## Sobre Mi
 
-Ingeniero Industrial con más de 30 años de experiencia en el sector de las tecnologías de la Información.
+Ingeniero Industrial con más de 30 años de experiencia en el sector de las Tecnologías de la Información.
 
 Reoriento mi carrera profesional hacia una pasión que viene de lejos: el desarrollo de software. Centrado en Python. Profundizo en el fascinante mundo de la Inteligencia Artificial.
+
 
 ## Habilidades
 
@@ -22,13 +23,13 @@ Reoriento mi carrera profesional hacia una pasión que viene de lejos: el desarr
 
 ## Competencias
 
-- Nivel de Inglés alto
 - Lenguajes de programación: C y Python
-- Análisis y manipulación de datos (pandas)
-- Web scraping (requests, beautifulsoup)
-- Machine learning (tensorflow, sklearn), nltk
-- Entornos: Atom, Visual Studio Code. Windows y Linux
+- Análisis y manipulación de datos: pandas
+- Web scraping: requests, beautifulsoup
+- Machine learning: tensorflow, sklearn. nltk
+- Entornos: Atom, Visual Studio Code. Windows, Linux
 - Control de versiones: Git, GitHub
+- Generación de documentación: Sphinx
 
 ## Formación
 
