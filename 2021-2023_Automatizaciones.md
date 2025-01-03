@@ -1,5 +1,6 @@
 <link rel="stylesheet" href="css/styles2.css">
 
+
 # 2021-2023 Automatizaciones administrativas
 
 Durante este periodo profesional, tomé la iniciativa de automatizar tareas repetitivas, principalmente administrativas, mediante scripts en **Python**. A medida que obtuve acceso a distintas fuentes de datos, aprendí y apliqué diversos enfoques técnicos.
@@ -33,7 +34,7 @@ Reescribí por completo el módulo de *scraping* siguiendo un enfoque de Diseño
 
 ## Nuevo sistema de gestión, SQL
 
-La Intranet y el sistema de gestión son sustituidos por la implantación del end-to-end con SAP S/4HANA. Esto modificó por completo el modelo de datos y los flujos de trabajo, haciéndose necesario rediseñar la lógica de gestión y los procesos de obtención de datos en mis módulos y scripts. Cuando obtuve acceso a una réplica de la nueva base de datos corporativa, empecé a trabajar basando la captura de datos en *pyodbc*.
+La Intranet y el sistema de gestión fueron sustituidos por un end-to-end basado en SAP S/4HANA. Esto modificó por completo el modelo de datos y los flujos de trabajo, haciéndose necesario rediseñar la lógica de gestión y los procesos de obtención de datos en mis módulos y scripts. Cuando obtuve acceso a una réplica de la nueva base de datos corporativa, empecé a dar los primeros pasos para basar la captura de datos en *pyodbc*.
 
 ### Librerías Python utilizadas:
 - *pyodbc*
