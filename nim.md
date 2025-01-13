@@ -13,6 +13,6 @@ Este script aprende los movimientos mas adecuados en cada posible composición d
 
 ## ¿Porqué este script?
 
-**REVISAR:**
-
 El mundo de la IA es fascinante. En el se vienen desarrollando ingeniosas técnicas, a veces complejas, y a veces tan simples como este algoritmo de Machine Learning cuya esencia es una sola ecuación. Basándose solo en ella, un programa es capaz de aprender cómo elegir en cada situación la mejor opción, simplemente evaluando y ponderando el error o acierto de cada uno de sus intentos durante el proceso de aprendizaje.
+
+![Under Construction](images/under_construction.jpg)
