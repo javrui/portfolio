@@ -8,8 +8,8 @@ Reoriento mi carrera profesional hacia una pasión que viene de lejos: el desarr
 
 ## Mis proyectos
 
-- [2024 Python search module](https://search-module.readthedocs.io/en/latest/index.html)
-- [2024 Script Python para jugar a Nim contra IA (Machine Learning)](nim.md)
+- [2025 Q-Learning-based Python script for training and playing the Nim game](https://javrui.github.io/nim/)
+- [2024 Python search module (AI algorithm)](https://search-module.readthedocs.io/en/latest/index.html)
 - [2021-2023 Automatización de procesos](2021-2023_Automatizaciones.md)
   - scraping de intranet corporativa
   - análisis y manipulación de datos con pandas
